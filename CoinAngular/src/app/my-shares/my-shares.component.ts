@@ -44,7 +44,6 @@ export class MySharesComponent implements OnInit {
         }
       },
       err => {
-        this.toastr.show("Go to quote to buy some shares.");
         console.log(err);
       }
     );

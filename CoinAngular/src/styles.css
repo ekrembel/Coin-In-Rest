@@ -74,18 +74,12 @@ a.navbar-brand {
     overflow: scroll;
   }
   
-  body {
-    /* Margin bottom by footer height */
-    
-    margin-bottom: 60px;
-  }
   .footer {
     position: fixed;
     bottom: 0;
     width: 100%;
     white-space: nowrap;
     line-height: 60px; /* Vertically center the text there */
-    margin-top: 160px;
   }
   
   .pb-3 {
